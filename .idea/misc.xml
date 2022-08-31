@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Legacy/ModMitch/app/src/main/res/layout/activity_device_list.xml" value="0.22" />
         <entry key="..\:/Legacy/ModMitch/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Legacy/ModMitch/app/src/main/res/layout/device_adapter_view.xml" value="0.1" />
+        <entry key="..\:/Legacy/ModMitch/app/src/main/res/layout/device_name.xml" value="0.1" />
       </map>
     </option>
   </component>
